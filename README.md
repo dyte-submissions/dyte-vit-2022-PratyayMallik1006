@@ -84,7 +84,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/dyte-submissions/dyte-vit-2022-PratyayMallik1006/blob/main/app-images/image.PNG)
+[![Product Name Screen Shot](https://github.com/dyte-submissions/dyte-vit-2022-PratyayMallik1006/blob/main/app-images/image.PNG)
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
@@ -115,19 +115,17 @@ This is an example of how to list things you need to use the software and how to
   ```
 
 ### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/dyte-submissions/dyte-vit-2022-PratyayMallik1006/
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
+3. Run app in development mode
    ```js
-   const API_KEY = 'ENTER YOUR API';
+   npm run
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -189,9 +187,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Your Name - [@LinkedIn_handle](https://www.linkedin.com/in/pratyay-mallik-0a866a192/) - pratyay.mallik2019@vitstudent.ac.in
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/PratyayMallik1006/dyte-vit-2022-PratyayMallik1006-own](https://github.com/PratyayMallik1006/dyte-vit-2022-PratyayMallik1006-own)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
